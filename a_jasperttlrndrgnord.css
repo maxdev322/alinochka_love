@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'a_JasperTtlRndRgNord';
+	src: url('./fonts/a_jasperttlrndrgnord.eot');
+	/* IE 9 Compatibility Mode */
+	src: url('./fonts/a_jasperttlrndrgnord.eot?#iefix') format('embedded-opentype'),
+		/* IE < 9 */
+		url('./fonts/a_jasperttlrndrgnord.woff2') format('woff2'),
+		/* Super Modern Browsers */
+		url('./fonts/a_jasperttlrndrgnord.woff') format('woff'),
+		/* Firefox >= 3.6, any other modern browser */
+		url('./fonts/a_jasperttlrndrgnord.ttf') format('truetype'),
+		/* Safari, Android, iOS */
+		url('./fonts/a_jasperttlrndrgnord.svg#a_JasperTtlRndRgNord') format('svg');
+	/* Chrome < 4, Legacy iOS */
+}

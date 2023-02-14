@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'LavanderiaC';
+	src: url('./fonts/lavanderiac.eot');
+	/* IE 9 Compatibility Mode */
+	src: url('./fonts/lavanderiac.eot?#iefix') format('embedded-opentype'),
+		/* IE < 9 */
+		url('./fonts/lavanderiac.woff2') format('woff2'),
+		/* Super Modern Browsers */
+		url('./fonts/lavanderiac.woff') format('woff'),
+		/* Firefox >= 3.6, any other modern browser */
+		url('./fonts/lavanderiac.ttf') format('truetype'),
+		/* Safari, Android, iOS */
+		url('./fonts/lavanderiac.svg#LavanderiaC') format('svg');
+	/* Chrome < 4, Legacy iOS */
+}
